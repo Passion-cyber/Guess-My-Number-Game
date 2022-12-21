@@ -126,6 +126,7 @@ footer{
 }
 
 footer a{
+  text-decoration: none;
   color: rgba(210, 173, 18, 1);
   padding: 1rem;
 }
