@@ -118,6 +118,19 @@ h1 {
   margin-bottom: 2rem;
 }
 
+footer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+}
+
+footer a{
+  color: rgba(210, 173, 18, 1);
+  padding: 1rem;
+}
+
+
 @media  (min-width: 400px){
   .btn {
     border: none;
